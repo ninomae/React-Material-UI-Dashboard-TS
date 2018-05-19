@@ -1,9 +1,9 @@
 import * as React from 'react';
 
-const Hoge = (props: any) => {
+const DashboardPage = (props: any) => {
     return (
         <div>hoge</div>
     );
 };  
 
-export default Hoge;
+export default DashboardPage;
