@@ -1,9 +1,24 @@
 import * as React from 'react';
 
-const DashboardPage = (props: any) => {
-    return (
-        <div>hoge</div>
-    );
-};  
+// import {
+//     ContentCopy,
+//     Store,
+//     InfoOutline,
+//     Warning,
+//     DateRange,
+//     LocalOffer,
+//     Update,
+//     ArrowUpward,
+//     AccessTime,
+//     Accessibility
+//   } from "@material-ui/icons";
 
-export default DashboardPage;
+class Dashboard extends React.Component {
+    render() {
+        return (
+            <div>hoge</div>
+        )
+    }
+}
+
+export default Dashboard;
